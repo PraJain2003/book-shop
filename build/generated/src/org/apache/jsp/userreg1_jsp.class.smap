@@ -1,0 +1,14 @@
+SMAP
+userreg1_jsp.java
+JSP
+*S JSP
+*F
++ 0 userreg1.jsp
+userreg1.jsp
+*L
+1,7:45
+9,62:53
+70,2:115
+72:117,3
+73,2:120
+*E
